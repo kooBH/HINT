@@ -1,0 +1,3 @@
+[submodule "lib/ClearSense"]
+	path = lib/ClearSense
+	url = https://github.com/kooBH/ClearSense.git
